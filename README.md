@@ -55,7 +55,7 @@ npx playwright test
 Run only UI tests:
 
 ```bash
-npx playwright test tests/ui
+npx playwright test tests/web-ui
 ```
 
 Run only API tests:
