@@ -38,7 +38,7 @@ README.md
 Clone the repository and install the project dependencies.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mcodrspace/test-automation-assessment.git
 cd test-automation-assessment
 npm install
 npx playwright install
