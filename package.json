@@ -1,0 +1,31 @@
+{
+  "name": "test-automation-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcodrspace/test-automation-assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcodrspace/test-automation-assessment/issues"
+  },
+  "homepage": "https://github.com/mcodrspace/test-automation-assessment#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.1"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "fsevents": "^2.3.2",
+    "playwright": "^1.61.1",
+    "playwright-core": "^1.61.1",
+    "undici-types": "^8.3.0"
+  }
+}
